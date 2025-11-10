@@ -13,3 +13,7 @@ This lecture discusses how to adapt pre-trained language models to economic meas
 ### Part III
 
 This lecture discusses the problem of using AI-generated regressors in downstream regression models with a focus on inference. We cover the data science literature that relies on the existence of a validation sample before introducing new methods that deal with the empirically relevant case of limited validation data.
+
+## Introduction to Github/Colab
+
+https://www.dropbox.com/scl/fi/dgozmspn2jch4brce24sp/github_intro.mp4?rlkey=p3gy0v1u7i86kmc25b5vr55u4&dl=0
